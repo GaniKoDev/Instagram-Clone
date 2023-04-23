@@ -8,9 +8,75 @@
 
 /* search bar size config */
 
+/* ------------------------------------------------ */
 
+/* right menu conf */
 span a {
 
     color: black;
     
+}
+
+/* right menu config */
+
+
+/* ------------------------------------------------ */
+
+
+
+.row {
+
+    margin: 20px 10px;
+}
+
+.col-sm-7 {
+
+    margin: 15px;
+    height: 100px;
+
+    
+    
+}
+
+.col-sm-4 {
+
+    height: 520px;
+    margin: 15px;
+} 
+
+/* ------------------------------------------------ */
+
+/*  look more config start */
+
+.right {
+    
+    position: relative;
+
+
+}
+
+.text-right {
+   
+    padding-left: 40px;
+  position: absolute;
+  top: 3px;
+  right: 55px;
+  font-size: 14px;
+  font-weight: bold;
+  /* padding-right: 45px; 
+
+  background-color: red;
+  text-align: center; */
+
+  
+}
+
+/* look more config end */
+
+/* ------------------------------------------------ */
+
+
+.list-unstyled {
+
+    width: 450px;
 }
